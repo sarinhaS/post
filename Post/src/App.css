@@ -1,0 +1,15 @@
+*{
+    background-image: url('https://wallpapercave.com/wp/wp7196343.jpg');
+    background-size: cover;
+}
+
+form{
+    background-color: rgb(198, 229, 255);
+    width: 600px;
+    display: flex;
+
+}
+
+.input-form{
+    background-color: aliceblue;
+}
